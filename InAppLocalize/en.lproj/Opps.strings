@@ -1,0 +1,10 @@
+/* 
+  Opps.strings
+  InAppLocalize
+
+  Created by Horst Leung on 26/6/15.
+  Copyright (c) 2015 Horst Leung. All rights reserved.
+*/
+
+"LOCALIZE_ME" = "Localize you - eng";
+"CHANGE_LANGUAGE" = "Change Language";
